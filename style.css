@@ -1,0 +1,26 @@
+
+body {
+    background-color: rgb(255, 68, 0);
+}
+.container {
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 300px;
+    margin: auto;
+    margin-top: 100px;
+    background-color: orange;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 3px 2px 1px rgba(255, 0, 0, 0.553);
+}
+
+h1 {
+    text-align: center;
+}
+
+input {
+    width: 100%;
+    display: block;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
